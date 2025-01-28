@@ -1,4 +1,4 @@
-### <h1 align="center"> Hi <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/hi.gif" alt="" width="40" height="40">, I'm Priyanshu Chaturvedi</h1>
+<h1 align="center"> Hi <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/hi.gif" alt="" width="40" height="40">, I'm Priyanshu Chaturvedi</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=priyanshuchaturvedi55&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"></p>
 
 <h3 align="center">Connect with me <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" alt="handshake" width="70" height="40"> </h3>
@@ -25,13 +25,16 @@
 ## <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif" width="50px"> About Some Stats
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshuchaturvedi55&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=priyanshuchaturvedi55&theme=react-dark" alt="Contribution Graph" />
 </p>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=priyanshuchaturvedi55&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshuchaturvedi55&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshuchaturvedi55&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=priyanshuchaturvedi55&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshuchaturvedi55&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <h6 align="center">Thanks for visiting my profile! Have a nice day!</h6>
